@@ -1,0 +1,11 @@
+0 .ipynb_checkpoints
+1 Abstract
+2 Cubism
+3 Dadaism
+4 Fauvism
+5 Minimalism
+6 Pop art
+7 Realism
+8 Romanticism
+9 Surrealist
+10 Symbolism

@@ -1,0 +1,13 @@
+0 Academic_Art
+1 Art_Nouveau
+2 Baroque
+3 Expressionism
+4 Japanese_Art
+5 Neoclassicism
+6 Primitivism
+7 Realism
+8 Renaissance
+9 Rococo
+10 Romanticism
+11 Symbolism
+12 Abstract
