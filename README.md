@@ -1,7 +1,3 @@
-Sure, I can help enhance the README file to make it more appealing and informative. Here's a more detailed and structured version:
-
----
-
 # ArtNaon ML Model Development
 
 ![ArtNaon](https://ik.imagekit.io/5ccyoycnm/Logo%20Untuk%20Sanggar%20Seni%20(4)%20(1).png?updatedAt=1718700846365)
