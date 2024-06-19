@@ -4,7 +4,7 @@ Sure, I can help enhance the README file to make it more appealing and informati
 
 # ArtNaon ML Model Development
 
-![ArtNaon](https://github.com/ArtNaon/ArtNaon-ML/assets/artnaon-logo.png)
+![ArtNaon](https://ik.imagekit.io/5ccyoycnm/Logo%20Untuk%20Sanggar%20Seni%20(4)%20(1).png?updatedAt=1718700846365)
 
 Welcome to the ArtNaon Machine Learning Model Development project! This project aims to create a sophisticated image classification model using Convolutional Neural Networks (CNN). Our model not only classifies images but also provides descriptions and recommends similar images from a pre-existing dataset. Finally, we deploy our model on Cloud Run using Flask.
 
